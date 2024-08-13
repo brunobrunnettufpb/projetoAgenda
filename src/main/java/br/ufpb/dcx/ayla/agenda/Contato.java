@@ -5,6 +5,4 @@ public class Contato {
     private int diaAniversario;
     private int mesAniversario;
 
-
-
 }
